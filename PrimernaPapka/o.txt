@@ -1,0 +1,4 @@
+total 8
+drwxrwxrwx+  2 codespace codespace 4096 May 29 09:45 .
+drwxrwxrwx+ 15 codespace root      4096 May 29 09:42 ..
+-rw-rw-rw-   1 codespace codespace    0 May 29 09:45 o.txt
